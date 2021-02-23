@@ -1,0 +1,4 @@
+Interface              IP-Address      OK? Method Status                Protocol
+GigabitEthernet1       10.51.121.246   YES NVRAM  up                    up      
+GigabitEthernet2       unassigned      YES NVRAM  up                    up      
+Loopback1              10.10.10.1      YES manual up                    up      
